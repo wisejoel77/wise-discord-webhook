@@ -9,7 +9,18 @@ public class WiseDiscordWebhook {
     public static void main(String[] args) {
         try {
             // Read message from message.txt
-            String message = new String(Files.readAllBytes(Paths.get("message.txt")));
+            String message = new String(Files.readAllBytes(Paths.get("message.txt"))).trim();
+
+            // Escape JSON-breaking characters (quotes + newlines)
+            String safeMessage = message
+                    .replace("\"", "\\\"")   // escape quotes
+                    .replace("\n", "\\n");   // escape newlines
+
+            // Build JSON payload
+            String payload = String.format("{\"content\": \"%s\"}", safeMessage);
+
+            // Debug output to check payload in GitHub logs
+            System.out.println("DEBUG Payload: " + payload);
 
             // Get webhook URL from environment variable
             String webhookUrl = System.getenv("DISCORD_WEBHOOK");
@@ -17,10 +28,6 @@ public class WiseDiscordWebhook {
                 System.err.println("Error: DISCORD_WEBHOOK environment variable not set.");
                 return;
             }
-
-            // Prepare JSON payload
-            String safeMessage = message.replace("\"", "\\\""); // escape quotes if any
-            String payload = String.format("{\"content\": \"%s\"}", safeMessage);
 
             // Open connection
             URL url = new URL(webhookUrl);
@@ -37,9 +44,9 @@ public class WiseDiscordWebhook {
 
             int responseCode = connection.getResponseCode();
             if (responseCode == 204) {
-                System.out.println("Message sent successfully to Discord.");
+                System.out.println("✅ Message sent successfully to Discord.");
             } else {
-                System.out.println("Failed to send message. Response code: " + responseCode);
+                System.out.println("❌ Failed to send message. Response code: " + responseCode);
             }
 
         } catch (IOException e) {
