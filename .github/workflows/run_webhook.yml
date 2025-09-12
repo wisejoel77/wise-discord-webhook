@@ -17,7 +17,7 @@ jobs:
           distribution: 'temurin'
 
       - name: Compile Java program
-        run: java WiseDiscordWebhook
+        run: java WiseDiscordWebhook.java
 
       - name: Run program
         env:
