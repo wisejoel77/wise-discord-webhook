@@ -20,6 +20,11 @@ jobs:
         run: javac WiseDiscordWebhook.java
 
       - name: Run program
-        run: java WiseDiscordWebhook
+        run: |
+          set -e
+          java WiseDiscordWebhook || {
+            echo "❌ Discord webhook failed. Check logs above for payload + status.";
+            exit 1;
+          }
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
