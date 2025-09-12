@@ -19,7 +19,8 @@ public class wise_discord_webhook {
             }
 
             // Prepare JSON payload
-            String payload = "{\"content\": \"" + message.replace(""", "\\"") + "\"}";
+            String safeMessage = message.replace("\"", "\\\""); // escape quotes if any
+            String payload = String.format("{\"content\": \"%s\"}", safeMessage);
 
             // Open connection
             URL url = new URL(webhookUrl);
