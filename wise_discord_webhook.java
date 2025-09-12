@@ -5,7 +5,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.io.OutputStream;
 
-public class wise_discord_webhook {
+public class WiseDiscordWebhook {
     public static void main(String[] args) {
         try {
             // Read message from message.txt
