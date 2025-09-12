@@ -1,4 +1,4 @@
-⚡ Wise Deals Alert!
-Get 40% OFF on all products.
-Use code: WISE40
-Valid until midnight!
+```
+Hello, This is just a text message.
+> https://www.youtube.com/watch?v=fwNWBwDvEtE
+```
