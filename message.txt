@@ -1,3 +1,5 @@
-### 📢 **Notice:**  
-> All chats in this channel are being monitored.  
-> Monitoring is handled by **Log Manager** 🔒
+## 🔑 Payment Details
+>>>📍 Address: bc1qxxxx...
+💰 Amount: 0.005 BTC
+📊 Status: Pending
+⏳ Valid Until: 13 Sep 2025, 18:00 UTC
