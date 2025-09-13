@@ -1,10 +1,10 @@
-## `📄` Guide & Terms of Agreement 
-> 1. The seller should not contact the buyer at any time and buyer should not contact the seller.
-> 2. Account will be held by <@491622550770810891> until the process is completed.
-> 3. Fixed charges: 10% of the account price to be paid to <@491622550770810891> as "Commission" by the seller & 5% of the account price by the buyer.
-> 4. Commission can only be paid in "**Bitcoin.**"
-> 5. You will receive the money from the buyer in your chosen payment method after you pay <@491622550770810891> the "Commission."
-> 6. For payments over 1 lakh, We only support "Bank Transfer." So, you will get the payment in one transaction.
-> 7. Only after you confirm the payment, the buyer will get the credentials.
-> 8. If the buyer is found to be a possible scammer, the transaction will be closed & the account will be given back to the seller under any circumstances.
-> 9. The bio of the account should be kept as "Token_ID" until the transaction is completed.
+## `✅` Account Details
+> - UID:
+> - Region:
+> - Price: 
+> - Owner: 
+## `💵` Payment Details
+> - Bank Name:
+> - IFSC Code:
+> - Account Number:
+> - Account Holder Name:
