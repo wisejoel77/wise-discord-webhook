@@ -5,4 +5,4 @@
 > - Status: ❌**Pending**
 > - Valid Until: **13 Sep 2025, 18:00 IST**
 
-Note: Message will be updated after payment is **confirmed.**
+Note: Message will be updated automatically after payment is **confirmed.**
