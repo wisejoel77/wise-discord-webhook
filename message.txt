@@ -1,4 +1,4 @@
-🔑 Payment Details
+🔑 Auto Payment Verifier
 📍 Address: bc1qxxxx...
 💰 Amount: 0.005 BTC
 📊 Status: ❌Pending
