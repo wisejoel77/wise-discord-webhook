@@ -1,5 +1,6 @@
 🔑 Auto Payment Verifier
-📍 Address: bc1qxxxx...
+
+>>> 📍 Address: bc1qxxxx...
 💰 Amount: 0.005 BTC
 📊 Status: ❌Pending
 ⏳ Valid Until: 13 Sep 2025, 18:00 UTC
