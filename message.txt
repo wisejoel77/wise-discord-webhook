@@ -2,6 +2,7 @@
 
 > - Bitcoin Wallet Address: **`bc1q2au02dgz7yy3gtxn0vy97a873h95c7rrzzal5y`**
 > - Exact amount to send: **1 BTC**
+> - Token_ID: **1207955769501294655**
 > - Status: ❌**Pending**
 > - Valid Until: **13 Sep 2025, 18:00 IST**
 
