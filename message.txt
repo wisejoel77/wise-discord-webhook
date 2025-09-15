@@ -1,10 +1,3 @@
-## `✅` Account Details
-> - UID:
-> - Region:
-> - Price: 
-> - Owner: 
-## `💵` Payment Details
-> - Bank Name:
-> - IFSC Code:
-> - Account Number:
-> - Account Holder Name:
+### 📢 **Notice:**  
+> All chats in this channel are being monitored.  
+> Monitoring is handled by **Log Manager** 🔒
