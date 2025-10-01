@@ -1,9 +1,2 @@
-## 🛡️ Transaction Created  
-
-> - **Transaction ID:** `ESC-20250930-AX47Q9`  
-> - **Seller:** <@dev_x_rai>  
-> - **Coverage:** ✅ Payment Hold + ✅ Delivery Verification  
-> - **Status:** 🟡 Active  
-
-📌 *A new transaction has been successfully created and is now under Escrow protection.  
-All further actions will be processed in accordance with Escrow policies.*
+@Seller, waiting for your recorded video. Please upload as soon as possible. Thanks
+`Note: This is an automated message.`
