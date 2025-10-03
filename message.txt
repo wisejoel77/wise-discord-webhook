@@ -1,2 +1,8 @@
-@Seller, waiting for your recorded video. Please upload as soon as possible. Thanks
-`Note: This is an automated message.`
+## ⏳ Evaluation in Progress  
+
+> - **Process:** ID Price Review  
+> - **Estimated Duration:** 15 Minutes  
+> - **Status:** 🟡 Ongoing  
+
+📌 *The evaluation process has begun.  
+Please wait while the system completes verification.*
