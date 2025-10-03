@@ -1,7 +1,7 @@
-## ✅ Evaluation Completed  
+## 📊 Evaluation Report: Estimated Price Ranges  
 
-> - **Process:** ID Price Review  
-> - **Status:** 🟢 Successful  
+> - **1ˢᵗ ID (Premium):** [ ₹90,000 – ₹1,30,000 ]  
+> - **2ⁿᵈ ID (Below Average):** [ ₹4,000 – ₹8,000 ]  
 
-📌 *The evaluation has been successfully completed.  
-The transaction may now proceed to the next stage under Escrow supervision.*
+📌 *These values are based on the latest evaluation metrics.  
+Final transaction value will be determined upon mutual agreement.*
