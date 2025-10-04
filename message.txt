@@ -1,5 +1,1 @@
-## `💵` Payment Details
-> - Bank Name: `Bank of Baroda`
-> - IFSC Code: `BARB0VJSHRI`
-> - Account Number: `64950100008426`
-> - Account Holder Name: `Vijeta`
+Enter text here !
