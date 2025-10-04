@@ -1,1 +1,1 @@
-Remainder has been set. @everyone will be pinged on the set date.
+Text entered in this file will be sent !
