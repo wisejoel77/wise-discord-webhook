@@ -1,1 +1,8 @@
-Text entered in this file will be sent !
+## ❌ System Error: Data Retrieval Failed  
+
+> - **Error Code:** `ERR-409-DUPLICATE`  
+> - **Description:** Duplicate data detected during the retrieval process.  
+> - **Status:** 🔴 Failed  
+
+⚠️ *Unable to fetch transaction details due to conflicting entries.  
+Please verify the request or contact Escrow Support for assistance.*
