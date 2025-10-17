@@ -1,8 +1,6 @@
-## ❌ System Error: Data Retrieval Failed  
+📰 **Server Announcement**
 
-> - **Error Code:** `ERR-409-DUPLICATE`  
-> - **Description:** Duplicate data detected during the retrieval process.  
-> - **Status:** 🔴 Failed  
+Hello everyone! 👋
 
-⚠️ *Unable to fetch transaction details due to conflicting entries.  
-Please verify the request or contact Escrow Support for assistance.*
+This is a test message sent via **Wise Discord Webhook**. ✅  
+Stay tuned for more updates and notifications! 🚀
