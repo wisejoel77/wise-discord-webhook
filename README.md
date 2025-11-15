@@ -4,6 +4,8 @@ A simple Java program to **send messages** to a Discord channel via webhooks.
 Read your message from a text file and post it automatically — perfect for announcements, logs, or notifications.
 
 ---
+Watch the Tutotial or Preview here: <video src="Tutorial or Preview.mp4" controls width="500"></video>
+---
 
 # 📂 Repository Structure
 
